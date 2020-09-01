@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\kadai1\bin\Debug\kadai1.exe.config
+C:\Users\student\Desktop\kadai1\bin\Debug\kadai1.exe
+C:\Users\student\Desktop\kadai1\bin\Debug\kadai1.pdb
+C:\Users\student\Desktop\kadai1\obj\Debug\kadai1.csprojAssemblyReference.cache
+C:\Users\student\Desktop\kadai1\obj\Debug\kadai1.exe
+C:\Users\student\Desktop\kadai1\obj\Debug\kadai1.pdb
